@@ -1,6 +1,6 @@
 # Yeoman PHP Package Generator
 
-![Code Climate issues](https://img.shields.io/codeclimate/issues/verschuur/generator-php-package-scaffolder.svg?style=flat-square) ![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/verschuur/generator-php-package-scaffolder.svg?style=flat-square) ![Scrutinizer](https://img.shields.io/scrutinizer/g/verschuur/generator-php-package-scaffolder.svg?style=flat-square) ![Travis (.org)](https://img.shields.io/travis/verschuur/generator-php-package-scaffolder.svg?style=flat-square)
+[![Maintainability](https://api.codeclimate.com/v1/badges/030bf58f64a539c8c08a/maintainability)](https://codeclimate.com/github/verschuur/generator-php-package-scaffolder/maintainability) ![Scrutinizer](https://img.shields.io/scrutinizer/g/verschuur/generator-php-package-scaffolder.svg?style=flat-square) ![Travis (.org)](https://img.shields.io/travis/verschuur/generator-php-package-scaffolder.svg?style=flat-square)
 
 - [Yeoman PHP Package Generator](#yeoman-php-package-generator)
   - [What's this about then](#whats-this-about-then)
