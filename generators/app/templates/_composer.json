@@ -1,0 +1,31 @@
+{
+  "name": "<%=VENDOR_SLUG%>/<%=PACKAGE_SLUG%>",
+  "description": "",
+  "keywords": [
+    "PHP"
+  ],
+  "authors": [
+    {
+      "name": "<%=AUTHOR_NAME%>",
+      "email": "<%=AUTHOR_EMAIL%>"
+    }
+  ],
+  "homepage": "https://github.com/<%=VENDOR_SLUG%>/<%=PACKAGE_SLUG%>",
+  "require": {
+    "php": ">=7.1.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  },
+  "license": "<%=LICENSE%>",
+  "autoload": {
+    "psr-4": {
+      "<%=PACKAGE_NAMESPACE%>\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "<%=PACKAGE_NAMESPACE%>\\Tests\\": "tests/"
+    }
+  }
+}
