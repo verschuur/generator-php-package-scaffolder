@@ -39,7 +39,7 @@ module.exports = function(generator) {
       type: "question",
       name: "package.basename",
       message:
-        "Package basename (used for naming the various files such as the ServiceProvider, config etc)",
+        "Package basename (used for naming various files such as the testcase etc)",
       default: function(prompts) {
         return classname(prompts.package.name);
       }
