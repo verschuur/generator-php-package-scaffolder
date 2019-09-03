@@ -1,6 +1,6 @@
 {
   "name": "generator-php-package-scaffolder",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Yeoman generator to quickly scaffold a PHP package.",
   "homepage": "http://github.com/verschuur/generator-php-package-scaffolder",
   "author": {
@@ -21,12 +21,12 @@
     "yo"
   ],
   "devDependencies": {
-    "eslint": "^6.2.2",
-    "eslint-config-prettier": "^6.1.0",
+    "eslint": "^6.3.0",
+    "eslint-config-prettier": "^6.2.0",
     "eslint-config-xo": "^0.26.0",
     "eslint-plugin-prettier": "^3.1.0",
-    "husky": "^3.0.4",
-    "jest": "^24.8.0",
+    "husky": "^3.0.5",
+    "jest": "^24.9.0",
     "lint-staged": "^9.2.5",
     "prettier": "^1.18.2",
     "yeoman-assert": "^3.1.0",
@@ -39,7 +39,7 @@
     "chalk": "^2.4.2",
     "npm": "^6.9.0",
     "username": "^5.0.0",
-    "yeoman-generator": "^4.0.0",
+    "yeoman-generator": "^4.0.2",
     "yosay": "^2.*"
   },
   "jest": {
