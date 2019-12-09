@@ -1,6 +1,6 @@
 {
   "name": "generator-php-package-scaffolder",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A Yeoman generator to quickly scaffold a PHP package.",
   "homepage": "http://github.com/verschuur/generator-php-package-scaffolder",
   "author": {
